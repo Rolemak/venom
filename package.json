@@ -66,6 +66,7 @@
   "files": [
     ".env",
     "src",
+    "dist",
     "package.json",
     "CHANGELOG.md",
     "LICENSE",

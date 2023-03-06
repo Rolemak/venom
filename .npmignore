@@ -16,7 +16,6 @@ LICENSE
 media
 session
 session-*
-src
 tokens
 tsconfig.json
 typedoc.json

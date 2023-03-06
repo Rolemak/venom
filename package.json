@@ -26,6 +26,7 @@
     "prepublish": "npm run clean && npm run build",
     "release": "release-it",
     "start": "npm run build:venom & tsc app.ts && node app.js",
+    "install": "npm run build",
     "test": "echo \"No tests yet\"",
     "watch": "concurrently \"tsc -w\" \"nodemon dist/index.js\""
   },

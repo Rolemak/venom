@@ -1,5 +1,6 @@
+# Original Repository: https://github.com/orkestral/venom 
 
-# 🕷Venom Bot🕸
+# 🕷Venom Bot - Custom🕸
 
 [![npm version](https://img.shields.io/npm/v/venom-bot.svg?color=green)](https://www.npmjs.com/package/venom-bot)
 ![node](https://img.shields.io/node/v/venom-bot)
